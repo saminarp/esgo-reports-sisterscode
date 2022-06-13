@@ -1,4 +1,6 @@
 ## Athena Hackathon 2022 - PwC Challenge 
+# Our Research Paper: 📝 https://docs.google.com/document/d/16-tHRsg2Kd7_8cBfDYEwvzTI6dazgwKjAvwoR3Mqsc4/edit
+
 ## The challenge ❗️❗️❗️
 Lack of a comprehensive, engaging reporting tool that makes it easy for companies to see their ESG performance, outline their ESG goals while making decisions and reward people for outlining good ESG goals. 
 
