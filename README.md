@@ -1,5 +1,6 @@
-## Athena Hackathon 2022 - PwC Challenge 
-# Our Research Paper: 📝
+# Athena Hackathon 2022 - PwC Challenge - 🥈2nd Place Winner🥈⭐️🌟🥳 -
+## UK's Largest All Female and Non-Binary People Hackathon!
+## Our Research Paper: 📝
 ## https://docs.google.com/document/d/16-tHRsg2Kd7_8cBfDYEwvzTI6dazgwKjAvwoR3Mqsc4/edit
 
 ## The challenge ❗️❗️❗️
